@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "semantic_abstraction"
+  site-url: "https://flupppi.github.io/semantic-abstraction-blenderproc"
+  description: "Semantic abstraction modules for BlenderProc"
+  repo-branch: main
+  repo-url: "https://github.com/flupppi/semantic-abstraction-blenderproc"
